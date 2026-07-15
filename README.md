@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a couple SRB2 mods, both lua and hardcoded
-- 🌱 I’m currently trying to get better at C
-- 👯 I’m looking to collaborate on SRB2
+- 🔭 I’m currently working on SRB2 mods, and some DS(i) homebrew
+- 🌱 I’m currently trying to get better at 3d graphics libraries
+- 👯 I’m looking to collaborate on anything that interests me
 - 🤔 I’m looking for help with making vscode not take 6gb of ram
 - 💬 Ask me about anything
 - 📫 How to reach me: discord: xdf.xdf
