@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with making vscode not take 6gb of ram
 - 💬 Ask me about anything
 - 📫 How to reach me: discord: xdf.xdf
-- 😄 Pronouns: he
+- 😄 Pronouns: she
 - ⚡ Fun fact: i like chicken
